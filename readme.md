@@ -30,7 +30,7 @@
 
  
 
-5. 搜索cmd，选择以管理员身份运行，在cmd对话框执行如下命令
+5. 搜索cmd，选择`以管理员身份运行`，在cmd对话框执行如下命令
 
 ```dism.exe /online /enable-feature /featurename:NetFx3 /Source:C:\WINDOWS\netfx3.cab```
 
